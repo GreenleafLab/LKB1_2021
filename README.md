@@ -4,4 +4,4 @@
 
 ## Please cite : Pierce SE et al., LKB1 inactivation modulates chromatin accessibility to drive metastatic progression. bioRxiv (2021) <br/>
 
-![](Images/Figure.png)
+![](Figure.png)
