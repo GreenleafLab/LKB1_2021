@@ -16,6 +16,6 @@ Heatmap-Analysis-ATAC.R - Example Analysis of Heatmap variable peaks ATAC-Seq.
 
 PCA-Analysis-ATAC.R - Example Analysis of PCA variable peaks ATAC-Seq.
 
-Compare-Differential-Deviations.R - - Example Analysis of comparing differential chromVAR deviations ATAC-seq.
+Compare-Differential-Deviations.R - Example Analysis of comparing differential chromVAR deviations ATAC-seq.
 
 scATAC-Analysis-ArchR.R - scATAC Analysis of LKB1 mouse tumor data.
