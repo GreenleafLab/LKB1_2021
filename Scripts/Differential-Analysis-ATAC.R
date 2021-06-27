@@ -165,6 +165,7 @@ se <- readRDS("output/ATAC_Analysis/Main/ATAC-Summarized-Experiment.rds")
 diffTest <- pairwiseTest(se, compareCol = "Group",
  topGroup = unique(colData(se)$Group)[1], bottomGroup = unique(colData(se)$Group)[2], method = "edger")
 
-
+#Save
+saveRDS(diffTest, "Differential-Test.rds")
 
 
